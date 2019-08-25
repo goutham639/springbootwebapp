@@ -19,7 +19,7 @@
 *.tar
 *.zip
 
-# Logs and databases #
+# Logs and databasees #
 ######################
 *.log
 *.sqlite
