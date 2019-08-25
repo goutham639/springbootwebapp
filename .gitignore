@@ -25,7 +25,7 @@
 *.sqlite
 
 # OS generated files #
-######################
+##################
 .DS_Store
 .DS_Store?
 ._*
